@@ -26,7 +26,7 @@ If you want to run it locally on your system you will need:
   
   2.MySQL
 
-thats it.NOW
+thats it!!!!!
 
 Clone the repo
 
@@ -46,6 +46,9 @@ User level view
 ![Vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/personal.PNG)
 
 Admin level view
-Vyntra
 
-For more details go through documentation
+![Vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/adminpanel.PNG)
+
+![vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/addproducts.PNG)
+
+For more details go through [documentation](https://github.com/venkatanirudh/vyntramart/tree/master/Documentation)
