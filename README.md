@@ -1,5 +1,5 @@
 # vyntramart
-!(https://github.com/venkatanirudh/vyntramart/blob/master/src/main/resources/static/images/vyntra.png)
+![logo](https://github.com/venkatanirudh/vyntramart/blob/master/src/main/resources/static/images/vyntra.png)
 An Online shopping site where a user can buy products using Paypal. E-commerce web application developed using Java 8, Spring Boot and MySQL
 
 
