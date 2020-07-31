@@ -21,14 +21,18 @@ The development database and production database uses MySql.
 
 # Getting Started
 If you want to run it locally on your system you will need:
-1.Eclipse/Spring Tool Suite(STS)
-2.MySQL
+
+  1.Eclipse/Spring Tool Suite(STS)
+  2.MySQL
 
 thats it.NOW
+
 Clone the repo
 
 git clone https://github.com/venkatanirudh/vyntramart.git
+
 Import the project in your favorite IDE mentioned above.
+
 RUN AND BROWSE
 
 # Preview
