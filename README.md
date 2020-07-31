@@ -23,6 +23,7 @@ The development database and production database uses MySql.
 If you want to run it locally on your system you will need:
 
   1.Eclipse/Spring Tool Suite(STS)
+  
   2.MySQL
 
 thats it.NOW
@@ -37,8 +38,8 @@ RUN AND BROWSE
 
 # Preview
 User level view
-Vyntra
 
+![Vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/vyntra.PNG)
 
 Vyntra
 
