@@ -4,11 +4,13 @@ An Online shopping site where a user can buy products using Paypal. Developed us
 
 Logo
 
-Vyntra
+#Vyntra
 
 E-commerce web application developed using Java 8, Spring Boot and MySQL
 Explore the [doc](https://github.com/venkatanirudh/vyntramart/tree/master/Documentation)
-About The Project
+
+#About The Project
+
 Vyntra
 
 
