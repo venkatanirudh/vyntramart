@@ -41,8 +41,9 @@ User level view
 
 ![Vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/vyntra.PNG)
 
-Vyntra
+![Vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/men.PNG)
 
+![Vyntra](https://github.com/venkatanirudh/vyntramart/blob/master/screenshots/personal.PNG)
 
 Admin level view
 Vyntra
